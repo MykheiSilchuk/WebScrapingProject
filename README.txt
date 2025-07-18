@@ -61,6 +61,14 @@ cd WebScrapingProject
 
 python-dotenv
 requests
+os
+logging
+abc
+time
+urllib.parse
+queue
+threading
+concurrent.futures
 lxml
 psycopg2-binary # Якщо ви використовуєте PostgreSQL
 
